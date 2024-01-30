@@ -12,15 +12,18 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The objective of this project is to learn how to build and appropriately use
+Neural Networks (Deep Learning). For this purpose the Keras library with
+Tensorflow as backend will be used.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](NN.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Tech 1 - Plain _Python_
+* Tech 2 - _Keras_
+* Tech 3 - _Numpy_
+* Tech 4 - _Tensorflow_
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
