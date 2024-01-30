@@ -15,6 +15,9 @@
 The objective of this project is to learn how to build and appropriately use
 Neural Networks (Deep Learning). For this purpose the Keras library with
 Tensorflow as backend will be used.
+This project is based masivelty on the book 'Deep Learning with Python 2ndE' by
+Francois Chollet, which is a REALLY great book. Thank you, fchollet! Merci
+beaucoup!
 
 ## Screenshots
 ![Example screenshot](NN.png)
@@ -34,19 +37,18 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Project, started, README done.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Take each chapter/piece of code in order, recode and understand it
+* Try code variations, improve when is possible
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Francois, Chollet. Deep Learning with Python, Second Edition. Manning
+Publications Co. Shelter Island, NY 11964, 2021.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+rdt333@gmail.com - feel free to contact me!
