@@ -26,11 +26,11 @@ Tensorflow as backend will be used.
 * Tech 4 - _Tensorflow_
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Keep the scripts, files and modules in the same folder.
 
 ## Code Examples
 Show examples of usage:
-`put-your-code-here`
+`import tensorflow as tf`
 
 ## Features
 List of features ready and TODOs for future development
