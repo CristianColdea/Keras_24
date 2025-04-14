@@ -47,8 +47,10 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-Francois, Chollet. Deep Learning with Python, Second Edition. Manning
-Publications Co. Shelter Island, NY 11964, 2021.
+* Francois, Chollet. Deep Learning with Python, Second Edition. Manning
+  Publications Co. Shelter Island, NY 11964, 2021.
+* Francois, Chollet. Deep Learning with Python, Third Edition (MEAP). Manning
+  Publications Co. Shelter Island, 2025 (updated April 2025).
 
 ## Contact
 rdt333@gmail.com - feel free to contact me!
